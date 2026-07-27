@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+venv/
+
+# Large datasets
+data/*.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
