@@ -1,45 +1,12 @@
-alias,skill
+alias,normalized_skill
 js,javascript
-ts,typescript
+javascript,javascript
 py,python
+python,python
 postgres,postgresql
-mongo,mongodb
-k8s,kubernetes
-powerbi,power bi
-google cloud,gcp
+postgresql,postgresql
 google cloud platform,gcp
-amazon web services,aws
-microsoft azure,azure
+google cloud,gcp
+powerbi,power bi
 machine-learning,machine learning
-ml,machine learning
 artificial intelligence,ai
-dl,deep learning
-natural language processing,nlp
-cv,computer vision
-tf,tensorflow
-sklearn,scikit-learn
-node,node.js
-reactjs,react
-vuejs,vue.js
-nextjs,next.js
-vue js,vue.js
-express,express.js
-rails,ruby on rails
-dotnet,asp.net
-.net,asp.net
-ci cd,ci/cd
-cicd,ci/cd
-github actions,ci/cd
-ms excel,excel
-msexcel,excel
-ms sql server,microsoft sql server
-mssql,microsoft sql server
-pandas library,pandas
-numpy library,numpy
-gen ai,generative ai
-genai,generative ai
-large language model,llm
-large language models,llm
-devops,devops
-qa,manual testing
-automated testing,automation testing

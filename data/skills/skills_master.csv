@@ -1,168 +1,84 @@
 skill,category
-Python,Programming
-Java,Programming
-C++,Programming
-C#,Programming
-JavaScript,Programming
-TypeScript,Programming
-R,Programming
-Scala,Programming
-Go,Programming
-Ruby,Programming
-PHP,Programming
-MATLAB,Programming
-Kotlin,Programming
-Swift,Programming
-Rust,Programming
-Perl,Programming
-Shell Scripting,Programming
-Bash,Programming
-VBA,Programming
-Julia,Programming
-SQL,Database
-PostgreSQL,Database
-MySQL,Database
-MongoDB,Database
-Oracle,Database
-SQLite,Database
-Redis,Database
-Cassandra,Database
-DynamoDB,Database
-MariaDB,Database
-Microsoft SQL Server,Database
-Snowflake,Database
-BigQuery,Database
-Neo4j,Database
-AWS,Cloud
-Azure,Cloud
-GCP,Cloud
-IBM Cloud,Cloud
-Oracle Cloud,Cloud
-Heroku,Cloud
-DigitalOcean,Cloud
-Firebase,Cloud
-Docker,DevOps
-Kubernetes,DevOps
-Git,DevOps
-Jenkins,DevOps
-CI/CD,DevOps
-Terraform,DevOps
-Ansible,DevOps
-GitHub Actions,DevOps
-GitLab CI,DevOps
-Puppet,DevOps
-Chef,DevOps
-Prometheus,DevOps
-Grafana,DevOps
-Nagios,DevOps
-Linux,Operating System
-Unix,Operating System
-Windows Server,Operating System
-macOS,Operating System
-React,Frontend
-Angular,Frontend
-Vue.js,Frontend
-HTML,Frontend
-CSS,Frontend
-Sass,Frontend
-Bootstrap,Frontend
-Tailwind CSS,Frontend
-jQuery,Frontend
-Next.js,Frontend
-Svelte,Frontend
-Redux,Frontend
-Node.js,Backend
-Django,Backend
-Flask,Backend
-Spring Boot,Backend
-Express.js,Backend
-FastAPI,Backend
-Ruby on Rails,Backend
-ASP.NET,Backend
-Laravel,Backend
-GraphQL,Backend
-REST API,Backend
-Microservices,Backend
-Power BI,Visualization
-Tableau,Visualization
-Looker,Visualization
-QlikView,Visualization
-Matplotlib,Visualization
-Seaborn,Visualization
-Plotly,Visualization
-D3.js,Visualization
-Machine Learning,AI
-Deep Learning,AI
-NLP,AI
-Computer Vision,AI
-TensorFlow,AI
-PyTorch,AI
-Scikit-learn,AI
-Keras,AI
-OpenCV,AI
-Pandas,AI
-NumPy,AI
-Data Mining,AI
-Reinforcement Learning,AI
-Generative AI,AI
-LLM,AI
-Hugging Face,AI
-MLOps,AI
-Statistics,AI
-Data Modeling,AI
-Predictive Modeling,AI
-Excel,Business
-PowerPoint,Business
-Word,Business
-SAP,Business
-Salesforce,Business
-Jira,Business
-Confluence,Business
-Notion,Business
-Google Sheets,Business
-SharePoint,Business
-ERP,Business
-CRM,Business
-API Development,Web
-Web Scraping,Web
-WordPress,Web
-SEO,Web
-Web Security,Web
-Android Development,Mobile
-iOS Development,Mobile
-React Native,Mobile
-Flutter,Mobile
-Xamarin,Mobile
-Selenium,Testing
-JUnit,Testing
-Pytest,Testing
-Manual Testing,Testing
-Automation Testing,Testing
-Postman,Testing
-Load Testing,Testing
-Agile,Project Management
-Scrum,Project Management
-Kanban,Project Management
-PMP,Project Management
-Six Sigma,Project Management
-Waterfall,Project Management
-Hadoop,Big Data
-Spark,Big Data
-Kafka,Big Data
-Hive,Big Data
-Airflow,Big Data
-ETL,Big Data
-Data Warehousing,Big Data
-Databricks,Big Data
-Cybersecurity,Security
-Penetration Testing,Security
-Network Security,Security
-Information Security,Security
-Cryptography,Security
-IAM,Security
-Communication,Soft Skills
-Leadership,Soft Skills
-Problem Solving,Soft Skills
-Teamwork,Soft Skills
-Time Management,Soft Skills
-Critical Thinking,Soft Skills
+python,Programming
+java,Programming
+c++,Programming
+c#,Programming
+javascript,Programming
+typescript,Programming
+r,Programming
+scala,Programming
+golang,Programming
+ruby,Programming
+php,Programming
+matlab,Programming
+html,Web
+css,Web
+react,Web
+angular,Web
+vue,Web
+node.js,Web
+django,Web
+flask,Web
+spring,Web
+spring boot,Web
+sql,Databases
+mysql,Databases
+postgresql,Databases
+mongodb,Databases
+oracle,Databases
+sqlite,Databases
+redis,Databases
+snowflake,Databases
+pandas,Data Science
+numpy,Data Science
+scikit-learn,Data Science
+tensorflow,Data Science
+pytorch,Data Science
+machine learning,Data Science
+deep learning,Data Science
+data science,Data Science
+data analysis,Data Science
+statistics,Data Science
+power bi,Visualization
+tableau,Visualization
+matplotlib,Visualization
+seaborn,Visualization
+plotly,Visualization
+excel,Visualization
+spark,Big Data
+hadoop,Big Data
+databricks,Big Data
+airflow,Big Data
+aws,Cloud
+azure,Cloud
+gcp,Cloud
+google cloud,Cloud
+docker,DevOps
+kubernetes,DevOps
+terraform,DevOps
+jenkins,DevOps
+github actions,DevOps
+git,DevOps
+linux,Operating Systems
+unix,Operating Systems
+nlp,AI
+computer vision,AI
+generative ai,AI
+llm,AI
+openai,AI
+langchain,AI
+rag,AI
+project management,Business
+agile,Business
+scrum,Business
+communication,Business
+leadership,Business
+financial analysis,Finance
+accounting,Finance
+budgeting,Finance
+forecasting,Finance
+seo,Marketing
+sem,Marketing
+google analytics,Marketing
+content marketing,Marketing
+social media marketing,Marketing
