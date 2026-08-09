@@ -5,7 +5,6 @@ c++,Programming
 c#,Programming
 javascript,Programming
 typescript,Programming
-r,Programming
 scala,Programming
 golang,Programming
 ruby,Programming
@@ -13,14 +12,15 @@ php,Programming
 matlab,Programming
 html,Web
 css,Web
-react,Web
+react.js,Web
+reactjs,Web
 angular,Web
 vue,Web
 node.js,Web
 django,Web
 flask,Web
-spring,Web
 spring boot,Web
+spring framework,Web
 sql,Databases
 mysql,Databases
 postgresql,Databases
