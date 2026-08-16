@@ -20,7 +20,9 @@ Companies and job seekers alike struggle to keep up with a fast-changing job mar
 
 ## Architecture
 
-![JobIntel Architecture Diagram](architecture_diagram.png)
+![JobIntel Architecture Diagram]
+
+<img width="2397" height="3058" alt="126093" src="https://github.com/user-attachments/assets/2a3a6627-bb9f-4b8b-813d-a808c0951d4d" />
 
 ---
 
