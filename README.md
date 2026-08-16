@@ -20,10 +20,7 @@ Companies and job seekers alike struggle to keep up with a fast-changing job mar
 
 ## Architecture
 
-```
-![Architecture Diagram](architecture_diagram.png)
-  
-```
+![JobIntel Architecture Diagram](architecture_diagram.png)
 
 ---
 
@@ -80,6 +77,7 @@ This project surfaced and corrected several real-world data quality issues, docu
 ```
 JobIntel/
 ├── README.md
+├── architecture_diagram.png
 ├── business_recommendations.md
 ├── data/                      (small sample CSVs only — not the full 123K-row file)
 ├── notebooks/
