@@ -52,15 +52,11 @@ Full findings with methodology: [`business_recommendations.md`](./business_recom
 
 ## Dashboard
 <img width="1169" height="657" alt="SALARY AND HIRING INSIGHTS" src="https://github.com/user-attachments/assets/26a56cad-640f-4903-9165-e96e0a7333b8" />
+
 <img width="1172" height="658" alt="SKILLS INTELLIGENCE" src="https://github.com/user-attachments/assets/8cc69fed-aafa-4fa5-92f1-a3b77fcb3b5f" />
+
 <img width="1166" height="657" alt="JOB MARKET OVERVIEW" src="https://github.com/user-attachments/assets/f4f4c21f-0b61-46a5-8312-eb7f7c91b610" />
 
-
-```markdown
-![Job Market Overview](powerbi/screenshots/page1_overview.png)
-![Skills Intelligence](powerbi/screenshots/page2_skills.png)
-![Salary & Hiring Insights](powerbi/screenshots/page3_salary.png)
-```
 
 ---
 
