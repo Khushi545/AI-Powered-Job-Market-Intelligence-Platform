@@ -21,51 +21,8 @@ Companies and job seekers alike struggle to keep up with a fast-changing job mar
 ## Architecture
 
 ```
-                     123,849 LinkedIn Job Postings (raw CSV)
-                                    │
-                                    ▼
-                    ┌───────────────────────────────┐
-                    │   PYTHON — DATA PREP LAYER     │
-                    │  01_data_exploration.ipynb     │
-                    │  02_data_cleaning.ipynb        │
-                    └───────────────────────────────┘
-                                    │
-                                    ▼
-                    ┌───────────────────────────────┐
-                    │   NLP SKILL EXTRACTION LAYER   │
-                    │  03_skill_extraction.ipynb     │
-                    │  03b_advanced_skill_extraction │
-                    │  (regex + skill dictionary +   │
-                    │   alias normalization)         │
-                    └───────────────────────────────┘
-                                    │
-                                    ▼
-                    ┌───────────────────────────────┐
-                    │      POSTGRESQL DATABASE       │
-                    │   job_market_db                │
-                    │   ├── jobs                     │
-                    │   ├── job_skills               │
-                    │   ├── skills_master             │
-                    │   └── skill_aliases              │
-                    └───────────────────────────────┘
-                                    │
-                     SQL Business Analysis (queries)
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              ▼                                            ▼
-   ┌───────────────────┐                       ┌───────────────────┐
-   │   EXCEL REPORTS     │                       │   POWER BI DASH    │
-   │  Pivot tables,       │                       │  Job Market,        │
-   │  KPI dashboard         │                       │  Skill Intel,        │
-   │                       │                       │  Salary & Hiring      │
-   └───────────────────┘                       └───────────────────┘
-              │                                            │
-              └─────────────────────┬──────────────────────┘
-                                    ▼
-                    Business Recommendations & Insights
-                                    │
-                                    ▼
-                          GitHub Documentation
+![Architecture Diagram](architecture_diagram.png)
+  
 ```
 
 ---
